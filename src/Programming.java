@@ -5,7 +5,8 @@ public class Programming {
         System.out.println("Uczę");
         System.out.println("się");
         System.out.println("programowania");
-        System.out.println("zaawansowanego");
+        System.out.println("i");
+        System.out.println("commitowania");
 
     }
 
