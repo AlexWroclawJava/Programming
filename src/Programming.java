@@ -7,6 +7,7 @@ public class Programming {
         System.out.println("programowania");
         System.out.println("i");
         System.out.println("commitowania");
+        System.out.println("oraz poprawnej obsługi programu");
 
     }
 
