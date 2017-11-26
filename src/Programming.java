@@ -9,6 +9,7 @@ public class Programming {
         System.out.println("commitowania");
         System.out.println("oraz poprawnej obsługi programu");
         System.out.println("i eleganckiego pisania kodu");
+        System.out.println("dodanie ekstra linijki");
     }
 
 }
